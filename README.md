@@ -9,9 +9,9 @@ Abstraindo um Bootcamp Usando Orientação a Objetos em Java <br>
 A idéia desse desafio é desmistificar a Programação Orientada a Objetos (POO) com Java e praticar esse conceito fundamental nesse desafio. Aperfeiçoar o código Java através da orientação a objetos com seus conceitos e aplicações, e como forma de estudo, levei em consideração a criação de uma plataforma de Bootcamp, com seus alunos e cursos matriculados, contando também a progressão de XPs. Nada muito grande nem extenso, e sim algo simples apenas para aprender cada vez mais sobre orientação a objetos. O exemplo em imagem segue um print que realizei da saída no console.
 
 ## Por quê?
-Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de eu destacar códigos que eu mesmo fiz ou modifiquei. <br>
-Email: alexcastro.contato@protonmail.com <br>
-LinkedIn: linkedin.com/in/itsAnyTimeR
+Esse projeto é parte para estudos e portfólio pessoal. Estou aprendendo e sendo curioso cada vez mais, então é uma forma de eu destacar códigos que eu mesmo fiz ou modifiquei. <br><br>
+[ProtonMail](alexcastro.contato@protonmail.com) <br>
+[LinkedIn](https://www.linkedin.com/in/itsanytimer/)
 
 ## Linguagem de Programação e IDE
 - Java
